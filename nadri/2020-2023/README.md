@@ -1,4 +1,4 @@
-## 데이터프레임 명 df 로 파일 가져오는 코드! 
+## 데이터프레임(df) 으로 파일 가져오는 코드! 
 ```python
 import pandas as pd
 
