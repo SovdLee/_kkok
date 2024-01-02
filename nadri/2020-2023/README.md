@@ -7,7 +7,7 @@ def get_data_by_input():
     start_month = int(input("시작 월을 입력하세요: "))
     end_month = int(input("끝 월을 입력하세요: "))
 
-    url_template = f"https://raw.githubusercontent.com/SovdLee/nadri_kkok/main/nadri/2020-2023bymonth/nadri_{year}/nadri_{year}_{{month:02d}}.csv"
+    url_template = f"https://raw.githubusercontent.com/SovdLee/nadri_kkok/main/nadri/2020-2023/nadri_{year}/nadri_{year}_{{month:02d}}.csv"
 
     dfs = []
 
