@@ -29,5 +29,5 @@ display(df.head())
 
 ## 월별 파일 raw 주소
 ```python
-https://raw.githubusercontent.com/SovdLee/nadri_kkok/main/nadri/2020-2023bymonth/nadri_{year}/nadri_{year}_{month}.csv
+https://raw.githubusercontent.com/SovdLee/nadri_kkok/main/nadri/2020-2023/nadri_{year}/nadri_{year}_{month}.csv
 ```
