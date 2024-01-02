@@ -19,7 +19,6 @@ def get_data_by_input():
     data = pd.concat(dfs, ignore_index=True)
     return data
 
-# 사용자 입력을 통해 데이터 가져오기
 df = get_data_by_input()
 display(df.head())
 
