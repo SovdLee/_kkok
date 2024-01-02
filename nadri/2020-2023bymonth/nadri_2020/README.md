@@ -1,6 +1,8 @@
 
 ## 파일 전부 합쳐서 data로 불러오는 코드
 ```python
+import pandas as pd
+
 urls = [
     "https://raw.githubusercontent.com/SovdLee/nadri_kkok/main/nadri/2020-2023bymonth/nadri_2020/nadri_2020_01.csv?token=GHSAT0AAAAAACMFUPUUYZSK45OQ6FTKTOWKZMUBF6Q",
     "https://raw.githubusercontent.com/SovdLee/nadri_kkok/main/nadri/2020-2023bymonth/nadri_2020/nadri_2020_02.csv?token=GHSAT0AAAAAACMFUPUUNMZ6UFORMC3SO7IAZMUBGEQ",
